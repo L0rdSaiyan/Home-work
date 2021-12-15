@@ -1,0 +1,99 @@
+body{
+
+    background-image: url(fundosite01.jpg);
+    background-size: 1800px 2335px;    
+    text-align: center;
+    /*
+    background-size: contain;%
+    */
+    padding: 2px;
+
+     
+    }
+     i{
+
+     color: crimson;
+
+  
+
+
+
+     }
+
+
+
+
+
+    p{
+    
+        color: red;
+     font-size: large;
+      text-align: left;
+    
+    }
+    
+    ul{
+    size: 100%;
+    color: yellow;
+    }
+    
+    li{
+     color:yellow;
+     font-weight: bold;
+    size: 100%;
+     }
+    
+    
+    h1{
+    color: magenta;
+    text-align: center;
+    }
+     
+    h2{
+    color: magenta;
+    text-align: center;
+    }
+
+    h3{
+   color: magenta;
+    }
+
+    h4{
+        color: magenta;
+    }
+    
+    h5{
+color: magenta;
+    }
+    
+    h6{
+ color: magenta;
+    }
+
+    div{
+
+  text-align: center;
+
+    }
+    table{
+
+      border-color: brown;
+      
+      font-size: medium;
+   border: 2px solid brown;
+      text-align: center;
+
+    }
+
+    form{
+
+
+   text-align: right;
+
+
+    }
+
+    td{
+    color: green;
+    }
+
